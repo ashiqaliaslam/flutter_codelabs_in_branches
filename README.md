@@ -29,3 +29,4 @@ To learn more about these widgets, and all the Flutter widgets, you can
 - and check out the
   **[Flutter Youtube channel](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw)**
   for more tutorials & tips on creating your next great user experience.
+- **[Fancy Scrolling](https://docs.flutter.dev/ui/advanced/slivers)**
